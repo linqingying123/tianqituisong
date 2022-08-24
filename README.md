@@ -43,7 +43,7 @@ npm install
 3.输入云函数名称，选择Node.js，点击创建函数
 ![](img/img_2.png)
 4.点击长传自，选择zip文件，将index.js、node_modules、package.json、package-lock.json一起打包成zip文件，点击上传
-![](img/img_3.png)
+![](./img/img_3.png)
 ![](img/img_4.png)
 5.点击测试，查看是否正常推送
 ![](img/img_5.png)
